@@ -1,0 +1,15 @@
+dom
+
+components
+ 
+components are independent  and  reusable bits code, that can give you a view
+
+hooks
+
+hooks has different function that start with use it is used to acceess to state and other rect features
+
+useState -
+ to get the information about an components;
+
+const [state,setState]=useState(0)
+setState(state+1)
