@@ -13,8 +13,8 @@ const StudentCard = ({ student, onEdit, onDelete }) => {
     >
       {/* Edit & Delete Icons */}
       <div style={{ position: "absolute", top: "10px", right: "10px" }}>
-        <button onClick={() => onEdit(student)}>✏️</button>
-        <button onClick={() => onDelete(student.id)}>❌</button>
+        <button onClick={() => onEdit(student)}>edit</button>
+        <button onClick={() => onDelete(student.id)>delete</button>
       </div>
 
       <img
