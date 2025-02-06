@@ -16,6 +16,30 @@ setState(state+1)
 
 useEffect
 
+
+ useNavigate
+
+
 useRef
 
+
 controlled unconctrolled component
+
+
+
+api
+
+rest api
+
+method
+get,post,put,delete
+
+
+
+AXIOS
+
+axios.get(//api url).then()  // api calling using axios
+
+
+
+fetch()
