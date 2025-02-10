@@ -43,3 +43,14 @@ axios.get(//api url).then()  // api calling using axios
 
 
 fetch()
+
+
+
+
+Redux
+
+third party library
+ 
+action
+reducer
+store
